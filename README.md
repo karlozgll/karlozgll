@@ -76,7 +76,7 @@ Mi enfoque combina las buenas prácticas del desarrollo empresarial, la automati
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karlozgll&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de GitHub de Carlos" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karlozgll&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de GitHub" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlozgll&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="180" />
 </p>
 
