@@ -76,11 +76,6 @@ Mi enfoque combina las buenas prácticas del desarrollo empresarial, la automati
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karlozgll&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de GitHub" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlozgll&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="180" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karlozgll&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 </p>
 
@@ -107,4 +102,19 @@ Mi enfoque combina las buenas prácticas del desarrollo empresarial, la automati
   </tr>
 </table>
 
+---
 
+## 🕹️ Más Allá del Código (Hobbies)
+
+Cuando no estoy optimizando queries en bases de datos o desarrollando APIs, me encontrarás enfocado en estas actividades que mantienen mi mente y cuerpo en equilibrio:
+
+* **🏍️ Rutas en Moto:** Apasionado de la libertad sobre dos ruedas y de explorar nuevos paisajes. Me encanta planificar y disfrutar de viajes en moto, capturando la esencia de las rutas (pasión que dio vida a mi proyecto *motoruta-norte*).
+* **⚽ Pasión por el Fútbol:** Disfruto tanto jugando un buen partido con amigos como siguiendo la emoción de los encuentros competitivos. El fútbol es mi desconexión ideal y el mejor recordatorio de lo que significa la estrategia en equipo.
+* **🎮 Gaming Competitivo:** Seguidor de los videojuegos de estrategia y alta competencia en tiempo real, especialmente **Dota 2**. Me gusta analizar las mecánicas internas y la toma de decisiones bajo presión.
+
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Motorcycle_Rides-000000?style=for-the-badge&logo=adventure&logoColor=white" alt="Moto" />
+  <img src="https://img.shields.io/badge/Football_&_Soccer-00b4d8?style=for-the-badge&logo=sports&logoColor=white" alt="Fútbol" />
+  <img src="https://img.shields.io/badge/Dota_2-A10000?style=for-the-badge&logo=dota2&logoColor=white" alt="Dota 2" />
+</p>
