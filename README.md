@@ -15,6 +15,24 @@ Mi enfoque combina las buenas prácticas del desarrollo empresarial, la automati
 
 ---
 
+## 📫 Conéctate conmigo
+
+¡Siempre estoy abierto a discutir sobre código, flujos de datos o colaborar en proyectos de alto impacto!
+
+<p align="left">
+  <a href="https://github.com/karlozgll" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/karlozgg15/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:contacto@karlozgg.com">
+    <img src="https://img.shields.io/badge/Email-contacto%40karlozgg.com-00b4d8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
 ## 💻 Tecnologías y Herramientas
 
 ### ☕ Backend & Core Software Engineering
@@ -68,15 +86,25 @@ Mi enfoque combina las buenas prácticas del desarrollo empresarial, la automati
 
 ---
 
-## 📫 Conéctate conmigo
+## 🛠️ Proyectos Destacados y Colaboraciones
 
-¡Siempre estoy abierto a discutir sobre código, flujos de datos o colaborar en proyectos de alto impacto!
+<table align="center" width="100%">
+  <tr>
+    <td width="100%" data-align="left">
+      <h3>🇵🇪 Observatorio de Precios de la Canasta Básica - Perú</h3>
+      <p><strong>Colaboración con <a href="https://github.com/gregory-mc" target="_blank">@gregory-mc</a></strong></p>
+      <p>Un sistema de monitoreo diario diseñado para recopilar, procesar y analizar las fluctuaciones de precios en los alimentos esenciales en Perú. Este proyecto combina técnicas de Data Engineering y Analytics para medir el impacto real en el costo de la canasta básica familiar.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Estado-En%20Desarrollo%20/%20Colaboración-orange?style=flat-square" alt="Estado" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square" alt="SQL" />
+      </p>
+      <a href="https://github.com/gregory-mc/observatorio-precios-canasta-peru" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Repositorio-%E2%9E%A4-00b4d8?style=for-the-badge" alt="Ver Repositorio" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <a href="https://github.com/karlozgll" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/karlozgg15/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+
